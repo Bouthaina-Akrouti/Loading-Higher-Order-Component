@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Loading-Higher-Order-Component/static/css/main.250900c1.chunk.css",
+    "main.js": "/Loading-Higher-Order-Component/static/js/main.1413157b.chunk.js",
+    "main.js.map": "/Loading-Higher-Order-Component/static/js/main.1413157b.chunk.js.map",
+    "runtime-main.js": "/Loading-Higher-Order-Component/static/js/runtime-main.e3ad399e.js",
+    "runtime-main.js.map": "/Loading-Higher-Order-Component/static/js/runtime-main.e3ad399e.js.map",
+    "static/js/2.cea0fd45.chunk.js": "/Loading-Higher-Order-Component/static/js/2.cea0fd45.chunk.js",
+    "static/js/2.cea0fd45.chunk.js.map": "/Loading-Higher-Order-Component/static/js/2.cea0fd45.chunk.js.map",
+    "index.html": "/Loading-Higher-Order-Component/index.html",
+    "precache-manifest.5193c95436375903bc5ff806b49b1b27.js": "/Loading-Higher-Order-Component/precache-manifest.5193c95436375903bc5ff806b49b1b27.js",
+    "service-worker.js": "/Loading-Higher-Order-Component/service-worker.js",
+    "static/css/main.250900c1.chunk.css.map": "/Loading-Higher-Order-Component/static/css/main.250900c1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3ad399e.js",
+    "static/js/2.cea0fd45.chunk.js",
+    "static/css/main.250900c1.chunk.css",
+    "static/js/main.1413157b.chunk.js"
+  ]
+}
